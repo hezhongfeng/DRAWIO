@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T02:11:29.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="TMY0Aiue3p7JvnoxUuQt" version="13.6.2" type="github">
-  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1186" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#353743" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-09-14T02:17:35.477Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="CncXtw9rHXkP-zOBhF5x" version="13.6.2" type="github" pages="4">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="多环境">
+    <mxGraphModel dx="1186" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#353743" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,30 @@
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2134" value="API" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rounded=0;labelBackgroundColor=none;fontSize=20;fontColor=#FFFFFF;direction=south;strokeColor=none;fillColor=#7176B9;" vertex="1" parent="1">
           <mxGeometry x="812.5" y="275" width="103" height="125" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xirnEc7aISOmXbpPmfTn" name="审核流程">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NjA_4Se861gSubPT1lSs-0" />
+        <mxCell id="NjA_4Se861gSubPT1lSs-1" parent="NjA_4Se861gSubPT1lSs-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g6dXtOzHzCWtwUs9U0Xf" name="权限系统">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fbE23Wr9ZpTMSnZsI2Zy-0" />
+        <mxCell id="fbE23Wr9ZpTMSnZsI2Zy-1" parent="fbE23Wr9ZpTMSnZsI2Zy-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7p7D2R5GTKElghKMaXWG" name="场景分析">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PyGDVKGPZWoF8LEloyW9-0" />
+        <mxCell id="PyGDVKGPZWoF8LEloyW9-1" parent="PyGDVKGPZWoF8LEloyW9-0" />
       </root>
     </mxGraphModel>
   </diagram>
