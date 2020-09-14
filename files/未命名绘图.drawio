@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T07:53:19.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="MiljczeOEe1CgpDewaoX" version="13.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-14T08:04:59.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="bS7ZIFF7BPgiEU2HUxBE" version="13.6.2" type="github" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -362,7 +362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AGTmLbVEwhTVHdfsuJQg" name="审核流程">
-    <mxGraphModel dx="2013" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="H9HIvyehpdawFJ4Wp84v-0" />
         <mxCell id="H9HIvyehpdawFJ4Wp84v-1" parent="H9HIvyehpdawFJ4Wp84v-0" />
@@ -451,7 +451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e9yRB957I4ojOXTReGmq" name="内容模型">
-    <mxGraphModel dx="2013" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="WLpevd6Q-R2o8T81IHBR-0" />
         <mxCell id="WLpevd6Q-R2o8T81IHBR-1" parent="WLpevd6Q-R2o8T81IHBR-0" />
@@ -491,23 +491,23 @@
         <mxCell id="OuiWJO0Z1k6ap7uXhKqw-18" value="音频" style="whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fontStyle=1;fillColor=#dae8fc;strokeColor=none;shadow=1;fontColor=#333333;" parent="WLpevd6Q-R2o8T81IHBR-1" vertex="1">
           <mxGeometry x="-736.5" y="538.5" width="256.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v_wvWPCibR97kdnbda9g-2" value="消防热线电话" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=1;fontSize=20;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" vertex="1" parent="WLpevd6Q-R2o8T81IHBR-1">
+        <mxCell id="v_wvWPCibR97kdnbda9g-2" value="消防热线电话" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;shadow=1;dashed=1;fontSize=20;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="WLpevd6Q-R2o8T81IHBR-1">
           <mxGeometry x="-450" y="112.5" width="270" height="181" as="geometry" />
         </mxCell>
         <mxCell id="v_wvWPCibR97kdnbda9g-4" value="&lt;pre style=&quot;font-size: 11.9px ; text-align: left ; box-sizing: border-box ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; background-color: rgb(246 , 248 , 250) ; border-radius: 3px ; color: rgb(36 , 41 , 46)&quot;&gt;&lt;code class=&quot;hljs&quot; style=&quot;box-sizing: border-box ; display: inline ; overflow: visible ; padding: 0px ; color: rgb(51 , 51 , 51) ; background-color: transparent ; margin: 0px ; border-radius: 3px ; word-break: normal ; border: 0px ; line-height: inherit ; overflow-wrap: normal&quot;&gt;detachmentName&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box&quot;&gt;（支队名称）&lt;/span&gt;: &lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box&quot;&gt;文本&lt;/span&gt;&lt;br&gt;avatar&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box&quot;&gt;（图标）：图片&lt;/span&gt;&lt;br&gt;tel&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box&quot;&gt;（电话）：文本&lt;/span&gt;&lt;br&gt;name&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box&quot;&gt;（联系人姓名）：文本&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fontSize=20;fontColor=#333333;" vertex="1" parent="WLpevd6Q-R2o8T81IHBR-1">
           <mxGeometry x="-440" y="177.5" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="v_wvWPCibR97kdnbda9g-5" value="&lt;span style=&quot;color: rgb(36, 41, 46); font-size: 20px;&quot;&gt;公告&lt;/span&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=1;fontSize=20;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" vertex="1" parent="WLpevd6Q-R2o8T81IHBR-1">
+        <mxCell id="v_wvWPCibR97kdnbda9g-5" value="&lt;span style=&quot;color: rgb(36, 41, 46); font-size: 20px;&quot;&gt;公告&lt;/span&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;shadow=1;dashed=1;fontSize=20;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="WLpevd6Q-R2o8T81IHBR-1">
           <mxGeometry x="-450" y="322" width="270" height="181" as="geometry" />
         </mxCell>
         <mxCell id="v_wvWPCibR97kdnbda9g-7" value="&lt;pre style=&quot;box-sizing: border-box ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 11.9px ; margin-top: 0px ; margin-bottom: 16px ; overflow-wrap: normal ; padding: 16px ; overflow: auto ; line-height: 1.45 ; background-color: rgb(246 , 248 , 250) ; border-radius: 3px ; color: rgb(36 , 41 , 46)&quot;&gt;&lt;code class=&quot;hljs&quot; style=&quot;box-sizing: border-box ; display: inline ; overflow: visible ; padding: 0px ; color: rgb(51 , 51 , 51) ; background-color: transparent ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;courier&amp;#34; , monospace , sans-serif ; font-size: 11.9px ; margin: 0px ; border-radius: 3px ; word-break: normal ; border: 0px ; line-height: inherit ; overflow-wrap: normal&quot;&gt;noticeName&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box ; font-family: &amp;#34;microsoft yahei&amp;#34; , , &amp;#34;simsun&amp;#34; , sans-serif&quot;&gt;（公告名称）&lt;/span&gt;: &lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box ; font-family: &amp;#34;microsoft yahei&amp;#34; , , &amp;#34;simsun&amp;#34; , sans-serif&quot;&gt;文本&lt;/span&gt;&lt;br/&gt;avatar&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box ; font-family: &amp;#34;microsoft yahei&amp;#34; , , &amp;#34;simsun&amp;#34; , sans-serif&quot;&gt;（图标）：图片&lt;/span&gt;&lt;br/&gt;time&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box ; font-family: &amp;#34;microsoft yahei&amp;#34; , , &amp;#34;simsun&amp;#34; , sans-serif&quot;&gt;（发布时间）：文本&lt;/span&gt;&lt;br/&gt;content&lt;span class=&quot;zh-hans&quot; style=&quot;box-sizing: border-box ; font-family: &amp;#34;microsoft yahei&amp;#34; , , &amp;#34;simsun&amp;#34; , sans-serif&quot;&gt;（内容详情）：&lt;/span&gt;H5&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fontSize=20;fontColor=#333333;html=1;" vertex="1" parent="WLpevd6Q-R2o8T81IHBR-1">
-          <mxGeometry x="-435" y="376" width="250" height="110" as="geometry" />
+          <mxGeometry x="-435" y="367" width="250" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="yVZ2ei6iSQOBzKIry6mu" name="权限管理">
-    <mxGraphModel dx="2013" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GxxmK9Tl_hf9PtyCDC_K-0" />
         <mxCell id="GxxmK9Tl_hf9PtyCDC_K-1" parent="GxxmK9Tl_hf9PtyCDC_K-0" />
