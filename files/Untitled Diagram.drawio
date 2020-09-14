@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T02:08:23.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="mdvjulrrB2tRVQNQRInK" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T02:11:29.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="TMY0Aiue3p7JvnoxUuQt" version="13.6.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#353743" math="0" shadow="0">
       <root>
@@ -8,25 +8,25 @@
           <mxGeometry x="190.5" y="93" width="440" height="555" as="geometry" />
         </mxCell>
         <mxCell id="2021" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2;fillColor=#525466;" parent="1" vertex="1">
-          <mxGeometry x="761.5" y="93" width="360" height="553" as="geometry" />
+          <mxGeometry x="681" y="95" width="360" height="553" as="geometry" />
         </mxCell>
         <mxCell id="2046" value="手机" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="802.5" y="457" width="32.5" height="50" as="geometry" />
+          <mxGeometry x="722" y="459" width="32.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2047" value="HCMS多环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="192" y="20" width="928" height="50" as="geometry" />
+        <mxCell id="2047" value="HCMS多环境" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1;strokeColor=#99CCFF;" parent="1" vertex="1">
+          <mxGeometry x="192" y="20" width="847" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2102" value="内容模型" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;fontStyle=1;fillColor=#7176B9;" vertex="1" parent="1">
           <mxGeometry x="223.5" y="261" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2103" value="PC" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1022.5" y="457" width="70" height="50" as="geometry" />
+          <mxGeometry x="942" y="459" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2104" value="小程序" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/371_Wechat_logo-128.png;rounded=0;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="876.5" y="460" width="44" height="44" as="geometry" />
+          <mxGeometry x="796" y="462" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2105" value="小程序&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/13_Alipay_logo_logos-128.png;rounded=0;fillColor=#3399FF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="958.5" y="462.5" width="39" height="39" as="geometry" />
+          <mxGeometry x="878" y="464.5" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2115" value="功能管理" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;fontStyle=1;fillColor=#7176B9;" vertex="1" parent="1">
           <mxGeometry x="433.5" y="261" width="170" height="50" as="geometry" />
@@ -65,22 +65,22 @@
           <mxGeometry x="211.5" y="110" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2130" value="外网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="774.5" y="104" width="80" height="47" as="geometry" />
+          <mxGeometry x="694" y="106" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2131" value="" style="endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeWidth=4;fontSize=28;fontColor=#FFFFFF;strokeColor=#7176B9;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="644" as="sourcePoint" />
-            <mxPoint x="699.5" y="106" as="targetPoint" />
+            <mxPoint x="656" y="642" as="sourcePoint" />
+            <mxPoint x="656" y="99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2132" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.sql_database;rounded=0;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="902.5" y="124" width="84" height="105" as="geometry" />
+          <mxGeometry x="822" y="126" width="84" height="105" as="geometry" />
         </mxCell>
         <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2133" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.sql_database;rounded=0;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="374.5" y="124" width="84" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2134" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#FFFFFF;direction=south;strokeColor=none;fillColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="911.5" y="281" width="71" height="97" as="geometry" />
+        <mxCell id="ClDeCDsqeWf2BkC4Ki-v-2134" value="API" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;rounded=0;labelBackgroundColor=none;fontSize=20;fontColor=#FFFFFF;direction=south;strokeColor=none;fillColor=#7176B9;" vertex="1" parent="1">
+          <mxGeometry x="812.5" y="275" width="103" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
