@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T02:44:15.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7J3mmwY1rn-Z0anQZp0c" version="13.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-17T02:45:08.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Knjdf8h2IjvwW8NqIzK7" version="13.7.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -682,10 +682,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n-BtnDsMBOKwPVc2G5zr-6" value="DB" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.azure.sql_database;dashed=1;fontFamily=Helvetica;fontSize=25;fontColor=#FFFFFF;fillColor=#6666FF;" vertex="1" parent="YRHj9bLDyfWNwkcPQVmM-1">
-          <mxGeometry x="2168" y="1451" width="88.84" height="113" as="geometry" />
+          <mxGeometry x="2236" y="1451" width="88.84" height="113" as="geometry" />
         </mxCell>
         <mxCell id="n-BtnDsMBOKwPVc2G5zr-7" value="CDN" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.azure.content_delivery_network;dashed=1;fontFamily=Helvetica;fontSize=25;fontColor=#FFFFFF;fillColor=#6666FF;" vertex="1" parent="YRHj9bLDyfWNwkcPQVmM-1">
-          <mxGeometry x="2380" y="1462.5" width="141" height="90" as="geometry" />
+          <mxGeometry x="2412" y="1451" width="141" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n-BtnDsMBOKwPVc2G5zr-9" value="" style="group" vertex="1" connectable="0" parent="YRHj9bLDyfWNwkcPQVmM-1">
           <mxGeometry x="2191" y="615.97" width="466" height="140" as="geometry" />
