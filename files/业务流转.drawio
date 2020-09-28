@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:06:13.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Dx7tt2iYO7nAzmJLNTqN" version="13.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:13:59.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EaEGiha3eQ_1AUs-amHa" version="13.7.5" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -782,16 +782,16 @@
           <mxGeometry x="823.5" y="244" width="113" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QtkGBhlwrtIteycY96xU-9" value="11.17~12.20" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
-          <mxGeometry x="1043.5" y="330" width="160" height="50" as="geometry" />
+          <mxGeometry x="1038.5" y="330" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QtkGBhlwrtIteycY96xU-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
-          <mxGeometry x="1113.5" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="1108.5" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QtkGBhlwrtIteycY96xU-11" value="1、服务部署到公网环境&lt;br&gt;2、完成全流程的测试&lt;br&gt;3、对局部功能进行容错测试验收" style="text;spacing=5;spacingTop=40;overflow=hidden;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontSize=15;fontColor=#000000;align=left;rounded=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
-          <mxGeometry x="1016" y="425" width="215" height="130" as="geometry" />
+          <mxGeometry x="1011" y="425" width="215" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QtkGBhlwrtIteycY96xU-12" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;预生产&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
-          <mxGeometry x="1067" y="437.5" width="113" height="20" as="geometry" />
+          <mxGeometry x="1062" y="437.5" width="113" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
