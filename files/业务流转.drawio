@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:33:20.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="x7GdzNQx-OTZdUJq-oer" version="13.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:33:51.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="I4llVZ3LQWwdU2FL_Jn3" version="13.7.5" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -769,7 +769,7 @@
         <mxCell id="QtkGBhlwrtIteycY96xU-2" value="1、完成后端接口开发&lt;br style=&quot;font-size: 15px&quot;&gt;2、完成PC端前端开发&lt;br style=&quot;font-size: 15px&quot;&gt;3、完成初始默认数据" style="text;spacing=5;spacingTop=40;overflow=hidden;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontSize=15;fontColor=#000000;align=left;rounded=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
           <mxGeometry x="545.5" y="425" width="215" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="QtkGBhlwrtIteycY96xU-4" value="1、部署到公网&lt;br&gt;2、完成对产品部分内容的支持" style="text;spacing=5;spacingTop=40;overflow=hidden;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontSize=15;fontColor=#000000;align=left;rounded=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
+        <mxCell id="QtkGBhlwrtIteycY96xU-4" value="1、部署到公网&lt;br&gt;2、完成对产品部分的支持" style="text;spacing=5;spacingTop=40;overflow=hidden;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontSize=15;fontColor=#000000;align=left;rounded=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
           <mxGeometry x="772.5" y="232" width="215" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QtkGBhlwrtIteycY96xU-6" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;设计架构设计&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="zry4_tookHMZNPTf9Bt--1">
