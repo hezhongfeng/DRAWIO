@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T02:40:53.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="MUGletcV2-Xpsm47eENl" version="13.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-19T02:48:06.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="7E67CO8yEL9D0dMIWH1L" version="13.7.5" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -657,7 +657,7 @@
         <mxCell id="9yfS0-8jgJhhj95_FJlD-0" value="HCMS流程控制" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;gradientColor=none;shadow=0;dashed=1;fontSize=20;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=4;fontColor=#FFFFFF;strokeColor=#748FFC;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-133" y="-155" width="2140" height="1617" as="geometry" />
         </mxCell>
-        <mxCell id="9yfS0-8jgJhhj95_FJlD-4" value="权限状态图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=50;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
+        <mxCell id="9yfS0-8jgJhhj95_FJlD-4" value="操作权限图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=50;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-131" y="-265" width="2144" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9yfS0-8jgJhhj95_FJlD-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=4;fontSize=25;fontColor=#FFFFFF;align=left;strokeColor=none;fillColor=#3E404F;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
