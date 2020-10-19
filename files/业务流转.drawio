@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T05:10:43.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="zm3dOfK8x1AfKNiVEqVr" version="13.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-19T05:17:56.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="N_m-lzktZDUcj9b6fcjO" version="13.7.5" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -655,10 +655,10 @@
         <mxCell id="poUeEg80Gv47W0KmI8Ih-0" />
         <mxCell id="poUeEg80Gv47W0KmI8Ih-1" parent="poUeEg80Gv47W0KmI8Ih-0" />
         <mxCell id="9yfS0-8jgJhhj95_FJlD-0" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;gradientColor=none;shadow=0;dashed=1;fontSize=20;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=4;fontColor=#FFFFFF;strokeColor=#748FFC;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
-          <mxGeometry x="-133" y="-109" width="2140" height="1571" as="geometry" />
+          <mxGeometry x="-176" y="-238" width="2183" height="1700" as="geometry" />
         </mxCell>
         <mxCell id="9yfS0-8jgJhhj95_FJlD-4" value="操作权限图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=50;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
-          <mxGeometry x="-131" y="-242" width="2144" height="90" as="geometry" />
+          <mxGeometry x="-176" y="-359" width="2181" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9yfS0-8jgJhhj95_FJlD-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=4;fontSize=25;fontColor=#FFFFFF;align=left;strokeColor=none;fillColor=#3E404F;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-61.999999999999886" y="-48" width="305" height="1430" as="geometry" />
@@ -669,7 +669,7 @@
         <mxCell id="9yfS0-8jgJhhj95_FJlD-40" value="分配角色" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-34.49881197380711" y="369" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9yfS0-8jgJhhj95_FJlD-41" value="分配运营权限" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
+        <mxCell id="9yfS0-8jgJhhj95_FJlD-41" value="分配运营" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-36.998811973807136" y="713" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9yfS0-8jgJhhj95_FJlD-42" value="创建工作流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
@@ -699,10 +699,10 @@
         <mxCell id="9yfS0-8jgJhhj95_FJlD-65" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rounded=1;strokeWidth=4;fontSize=25;fontColor=#FFFFFF;strokeColor=none;fillColor=#748FFC;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="1489" y="542" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9yfS0-8jgJhhj95_FJlD-81" value="创建权限" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
+        <mxCell id="9yfS0-8jgJhhj95_FJlD-81" value="管理权限" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-29.998811973807108" y="86.40000000000005" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9yfS0-8jgJhhj95_FJlD-82" value="创建角色" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
+        <mxCell id="9yfS0-8jgJhhj95_FJlD-82" value="管理角色" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-33.99999999999997" y="152.00000000000006" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9yfS0-8jgJhhj95_FJlD-83" value="角色分配权限" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
@@ -717,7 +717,7 @@
         <mxCell id="9yfS0-8jgJhhj95_FJlD-86" value="管理工作流状态" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-36.99881197380711" y="510.0000000000001" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9yfS0-8jgJhhj95_FJlD-87" value="管理状态动作" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
+        <mxCell id="9yfS0-8jgJhhj95_FJlD-87" value="管理工作流状态动作" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-36.99881197380711" y="577.0000000000001" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EzYq5D7zEGWblLBUHDue-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=4;fontSize=25;fontColor=#FFFFFF;align=left;strokeColor=none;fillColor=#3E404F;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
@@ -806,6 +806,12 @@
         </mxCell>
         <mxCell id="EzYq5D7zEGWblLBUHDue-33" value="超级管理权限" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=20;fillColor=#7176B9;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
           <mxGeometry x="-29.998811973807136" y="1208" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QpqA9v9RNigGTAktoedP-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontSize=25;fontColor=#FFFFFF;rotation=90;strokeColor=#FFFFFF;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
+          <mxGeometry x="1313" y="-694.25" width="20" height="1117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QpqA9v9RNigGTAktoedP-1" value="工作流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="poUeEg80Gv47W0KmI8Ih-1">
+          <mxGeometry x="1107.5" y="-183" width="431" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
