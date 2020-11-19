@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T06:37:40.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YefuucDyCbhVrXQWwvlF" version="13.8.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-19T00:32:07.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-znMDrYKbai63HpJYRAR" version="13.8.7" type="github" pages="8">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -979,7 +979,7 @@
         <mxCell id="Nr-eaX8Q4PB_3vNaHsZE-97" value="缓存节点" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#5D7F99;shadow=0;labelBackgroundColor=none;strokeColor=#D0CEE2;fontSize=35;fontColor=#1A1A1A;spacingTop=20;" vertex="1" parent="Tet5nve5jy6RoMw7oHVm-1">
           <mxGeometry x="2790" y="917" width="170" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="Nr-eaX8Q4PB_3vNaHsZE-105" value="1、终端接口响应快，轻松应对高并发，增强用户体验&lt;br style=&quot;font-size: 40px&quot;&gt;2、减少私有服务器的使用，节约成本&lt;br style=&quot;font-size: 40px&quot;&gt;3、私有服务器和OBS物理隔离，更加安全" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000;fontSize=40;" vertex="1" parent="Tet5nve5jy6RoMw7oHVm-1">
+        <mxCell id="Nr-eaX8Q4PB_3vNaHsZE-105" value="1、终端服务响应快，轻松应对高并发，增强用户体验&lt;br style=&quot;font-size: 40px&quot;&gt;2、私有服务器和OBS物理隔离，更加安全&lt;br style=&quot;font-size: 40px&quot;&gt;3、减少私有服务器的使用，节约成本" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#000;fontSize=40;" vertex="1" parent="Tet5nve5jy6RoMw7oHVm-1">
           <mxGeometry x="2090" y="1330" width="1100" height="220" as="geometry" />
         </mxCell>
       </root>
